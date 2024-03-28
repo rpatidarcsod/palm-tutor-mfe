@@ -49,7 +49,8 @@ CORE_MFE_APPS: dict[str, MFE_ATTRS_TYPE] = {
         "port": 1994,
     },
     "learning": {
-        "repository": "https://github.com/openedx/frontend-app-learning",
+        "repository": "https://github.com/rpatidarcsod/palm-frontend-app-learning",
+        "version": "palm-frontend-ui-chnages",
         "port": 2000,
     },
     "ora-grading": {
